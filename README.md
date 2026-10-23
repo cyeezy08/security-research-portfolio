@@ -4,11 +4,11 @@ Security researcher. Responsible disclosure track record on identity infrastruct
 
 ## Work
 
-**Keycloak** — Authentication flow bypass (required action state replay). Reported to Keycloak security team. Acknowledged, in triage.
+**Keycloak** - Authentication flow bypass (required action state replay). Reported to Keycloak security team. Acknowledged, in triage.
 
-**AWS Trust & Safety** — Exposed unauthenticated DICOM medical imaging endpoints on Azure. Reported and remediated.
+**AWS Trust & Safety** - Exposed unauthenticated DICOM medical imaging endpoints on Azure. Reported and remediated.
 
-**PHP 8.4.26 (CVE-2026-109618/109619)** — Validated working exploit chain. Identified silent offsets bug in published exploit (Debian tag drift: bookworm vs trixie). [Full analysis](https://github.com/cyeezy08/php2shell-portfolio).
+**PHP 8.4.26 (CVE-2026-109618/109619)** - Validated working exploit chain. Identified silent offsets bug in published exploit (Debian tag drift: bookworm vs trixie). [Full analysis](https://github.com/cyeezy08/php2shell-portfolio).
 
 ## Approach
 
