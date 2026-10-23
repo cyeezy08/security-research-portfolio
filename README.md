@@ -8,7 +8,7 @@ Security researcher. Responsible disclosure track record on identity infrastruct
 
 **AWS Trust & Safety** — Exposed unauthenticated DICOM medical imaging endpoints on Azure. Reported and remediated.
 
-**PHP 8.4.26 (CVE-2026-109618/109619)** — Validated working exploit chain. Identified silent offsets bug in published exploit (Debian tag drift: bookworm vs trixie). Analysis available on request.
+**PHP 8.4.26 (CVE-2026-109618/109619)** — Validated working exploit chain. Identified silent offsets bug in published exploit (Debian tag drift: bookworm vs trixie). [Full analysis](https://github.com/cyeezy08/php2shell-portfolio).
 
 ## Approach
 
